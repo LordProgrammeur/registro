@@ -14,7 +14,7 @@ header{
 }
 
 body {
-    background-image: url(img/fondo.jpg);
+    background-image: url(./../images/img/fondo.jpg);
     
 }
 .fondoHeader{
